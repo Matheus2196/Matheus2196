@@ -1,5 +1,7 @@
 ### Hi there! I'm Matheus 👋
 
+<hr>
+
 <div align="center">
   <a href="https://github.com/Matheus2196">
   <img height="300em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Matheus2196&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
